@@ -1,3 +1,7 @@
+# Final-Year-Project
+Prototype of Helmet for Accidental Recovery System Involving Smart Sensing Technology
+
+
 long accelX, accelY, accelZ; 
 // For Getting acceleration
 float gForceX, gForceY, gForceZ;
